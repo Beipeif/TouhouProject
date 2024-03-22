@@ -2,6 +2,7 @@
 Artificial Idiot wrote for Cirno for STG Touhou Games
 
 python == 3.10.13
+
 Modules Needed
 1. pyautogui
 2. gymnasium
