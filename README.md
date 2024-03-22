@@ -11,15 +11,15 @@ Modules Needed
 5. pywin32
 6. pytorch
 
-This is an AI (artifitial idiot) Enviroments for Touhou Project(Imperishable Night in MyCard platform https://ygobbs.com/).
+This is an AI (artificial idiot) Enviroments for Touhou Project(Imperishable Night in MyCard platform https://ygobbs.com/).
 In this code, PPO algorithm with online_training are aplied.
 Notably, in this verision, the number of red stars, blue stars and the scores are all detected by ddddorc to quantify their influence.
 And then these three parameters are concluded to calculated the rewards.
 
 However, at the time cirno チルノ running this code, she came up the problem of the lack of computing resource.
 Thus, the next version in developing will invert the online_training policy to a offline one.
-Any advises or adopts of this AI will be seriously considerated an authorized.
-Looking forward to your attempt on improving this Artifitiual Idiot.
+Any suggestions or adopt of this AI will be seriously considerated and authorized.
+Looking forward to your advises on improving this Artificial Idiot.
 
 
 Thanks for your reading.
