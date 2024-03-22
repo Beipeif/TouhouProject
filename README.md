@@ -17,7 +17,7 @@ Notably, in this verision, the number of red stars, blue stars and the scores ar
 And then these three parameters are concluded to calculated the rewards.
 
 However, at the time cirno チルノ running this code, she came up the problem of the lack of computing resource.
-Thus, the next version in developing will invert the online_training policy to a offline one.
+Thus, the next version in developing will invert the online_training policy to an offline one.
 Any suggestions or adopt of this AI will be seriously considerated and authorized.
 Looking forward to your advises on improving this Artificial Idiot.
 
